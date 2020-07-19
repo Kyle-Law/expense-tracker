@@ -6,7 +6,7 @@
 
 ## Snapshots
 
-[Live Link]()
+[Live Link](https://kyle-law.github.io/expense-tracker/)
 
 ![image](https://user-images.githubusercontent.com/55923773/87870495-268cbd80-c9db-11ea-8fda-2a418a97cdfc.png)
 
